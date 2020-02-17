@@ -1,2 +1,2 @@
 # hello-world
-Practice
+My name is Joey. I live in NJ.
