@@ -1,1 +1,1 @@
-First commit test.
+print("Hello World!")
